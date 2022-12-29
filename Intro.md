@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kahacho
+Hi there 👋,
 - 👀 I’m interested in Machine Learning
 - 📫 How to reach me @kahachoevan on 'twitter.com' 
 
