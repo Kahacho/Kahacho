@@ -1,4 +1,7 @@
 Hi there 👋,
+
+[LinkedIn](www.linkedin.com/in/evan-kahacho) [GitHub](https://github.com/Kahacho) [Twitter](https://twitter.com/kahachoevan)
+
 - 👀 I’m interested in Machine Learning
 - 📫 How to reach me @kahachoevan on 'twitter.com' 
 
